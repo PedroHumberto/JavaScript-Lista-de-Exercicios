@@ -1,5 +1,5 @@
-#Exercicios de algoritmos feitos em JavaScript
-##As perguntas referentes podem ser encontradas no pdf dentro do repositorio.
+# Exercicios de algoritmos feitos em JavaScript
+## As perguntas referentes podem ser encontradas no pdf dentro do repositorio.
 
-###Arquivo:
+### Arquivo:
 * Javascript -Lista de Exercicios.pdf
